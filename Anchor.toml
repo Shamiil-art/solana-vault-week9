@@ -5,11 +5,11 @@ anchor_version = "0.31.1"
 resolution = true
 skip-lint = false
 
-[programs.localnet]
-simple_vault = "D3yzaxKaPwpvriUdQCNv9MVsuSHLjkJzJusD7FnetZkJ"
-
 [programs.devnet]
-simple_vault = "D3yzaxKaPwpvriUdQCNv9MVsuSHLjkJzJusD7FnetZkJ"
+simple_vault = "AdDmG6ALyofdymfyk9mx4vzAPFnnYqQYSi6WFmznDkGQ"
+
+[programs.localnet]
+simple_vault = "AdDmG6ALyofdymfyk9mx4vzAPFnnYqQYSi6WFmznDkGQ"
 
 [registry]
 url = "https://api.apr.dev"
